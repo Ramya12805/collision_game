@@ -1,4 +1,4 @@
-Brick Collision Game
+Brick Collision Game \n
 Welcome to the Brick Collision Game! Test your reflexes and avoid the falling bricks. Follow the instructions below to play the game:
 
 Instructions:
